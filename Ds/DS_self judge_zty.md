@@ -23,17 +23,17 @@
 
 > https://chatgpt.com/share/6932b55e-e960-8003-b085-44722059d5bf
 
-> ![image-20251205182827013](C:\Users\user\Desktop\Ds\Resources\image-20251205182827013.png)
+> ![image-20251205182827013](Ds\Resources\image-20251205182827013.png)
 >
-> ![image-20251205182919589](C:\Users\user\Desktop\Ds\Resources\image-20251205182919589.png)
+> ![image-20251205182919589](Ds\Resources\image-20251205182919589.png)
 >
-> ![image-20251205182952983](C:\Users\user\Desktop\Ds\Resources\image-20251205182952983.png)
+> ![image-20251205182952983](Ds\Resources\image-20251205182952983.png)
 >
-> ![image-20251205183009331](C:\Users\user\Desktop\Ds\Resources\image-20251205183009331.png)
+> ![image-20251205183009331](Ds\Resources\image-20251205183009331.png)
 >
-> ![image-20251205183023969](C:\Users\user\Desktop\Ds\Resources\image-20251205183023969.png)
+> ![image-20251205183023969](Ds\Resources\image-20251205183023969.png)
 >
-> <img src="C:\Users\user\Desktop\Ds\Resources\image-20251205183552527.png" alt="image-20251205183552527" style="zoom:50%;" />
+> <img src="Ds\Resources\image-20251205183552527.png" alt="image-20251205183552527" style="zoom:50%;" />
 
 ***考前资料自主整理：***
 
@@ -68,3 +68,4 @@
 
 
 ***综上是我所有的自我评价内容，感谢Chen Zhongpu老师的辛勤付出和认真教学，感谢助教过程中的帮助与指导，感谢过程中所使用的各大软件、平台的开发与运营团队，that's all.***
+
